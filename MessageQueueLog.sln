@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueueLog", "MessageQueueLog\MessageQueueLog.csproj", "{AEC70DB7-B303-4CAD-877A-64A57162CC4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73E5B3BE-86FC-4A6B-9533-4C9F3F6134C8}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC70DB7-B303-4CAD-877A-64A57162CC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC70DB7-B303-4CAD-877A-64A57162CC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC70DB7-B303-4CAD-877A-64A57162CC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC70DB7-B303-4CAD-877A-64A57162CC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
